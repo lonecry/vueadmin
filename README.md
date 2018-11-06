@@ -27,7 +27,7 @@ npm run dev
 
 ## 说明
 > 觉得对你有帮助,请点右上角的`Star`支持一下</br>
-> 推荐一下我的另一个项目基于vue的UI框架(教你从零开始造轮子) [点这里](https://github.com/liuyangjike/JKUI)
+> 推荐一下我的另一个项目基于vue的UI框架(教你从零开始造轮子) [点这里](https://github.com/liuyangjike/JKUI)</br>
 > 推荐一下我的另一个项目基于react的饿了吗项目(全家桶, 很适合react进阶用) [点这里](https://github.com/liuyangjike/react-elm)
 
 ## 描述
